@@ -22,11 +22,12 @@ International Conference on Civil Engineering Research & Innovations
 **Additive effects of crumb rubber and nylon fibre on concrete: a factorial
 study of strength, code-form relationships and the tensile modification
 factor** [under review at *Structures* (Elsevier)]
+Supervised by **Dr. Rupak Mutsuddy**, Associate Professor, Department of Civil Engineering, BUET
 
 **Same Water, Different Verdict: Re-assessing Monitoring Data for the
 Buriganga, Turag and Shitalakshya Rivers under Bangladesh's 1997 and 2023
 Inland Surface Water Standards** [work in progress].
-Supervised by Prof. Dr. Md. Sultanul Islam, Dean, School of Civil,
+Supervised by **Prof. Dr. Md. Sultanul Islam**, Dean, School of Civil,
 Environment and Industrial Engineering, Uttara University
 
 ## Projects
@@ -43,6 +44,7 @@ asphalt is more cracked than southern asphalt, and barely rougher.
 
 ## Capstone Projects
 **[Planning, Analysis and Design for the Reconstruction of the Green Road Government Staff Quarter, Kalabagan, Dhaka](https://github.com/Hasan-Shif/green-road-staff-quarter)**
+![Master plan](https://raw.githubusercontent.com/Hasan-Shif/green-road-staff-quarter/main/figures/master-plan.png)
 BUET capstone project. Planning, analysis and design for the reconstruction of
 a 12.23-acre government staff quarter in Dhanmondi: 16 B+G+12 blocks, ETABS
 model, full services design, bill of quantities and economic analysis.
