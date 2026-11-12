@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**Hasan-Shif/Hasan-Shif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shifat Hasan
 
-Here are some ideas to get you started:
+Lecturer, Department of Civil Engineering, Uttara University, Dhaka.
+BSc in Civil Engineering, BUET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on concrete materials and on pavement and traffic data. What I want to
+do next is cold-climate pavement performance: how winter conditions change the
+way a road fails, and what that means for the materials you choose.
+
+## Publications
+
+**Sustainable Reinforcement of Concrete: Mechanical Property Enhancement Using
+Nylon Fibers and Recycled Tire Crumb**
+S. Hasan, I. A. Shihab.
+International Conference on Civil Engineering Research & Innovations
+(ICCEI 2025), Rajshahi University of Engineering & Technology, 12-14 December
+2025. Paper 282.
+[Paper](https://icceiruet.org/wp-content/uploads/2025/12/282_Camera-Ready-Final-Paper_ICCEI-2025.pdf)
+
+**Additive effects of crumb rubber and nylon fibre on concrete: a factorial
+study of strength, code-form relationships and the tensile modification
+factor** — under review at *Structures* (Elsevier)
+
+**Same Water, Different Verdict: Re-assessing Monitoring Data for the
+Buriganga, Turag and Shitalakshya Rivers under Bangladesh's 1997 and 2023
+Inland Surface Water Standards** — in preparation.
+Supervised by Prof. Dr. Md. Sultanul Islam, Dean, School of Civil,
+Environment and Industrial Engineering, Uttara University
+
+## Projects
+
+**[Toronto signal timing](https://github.com/Hasan-Shif/Toronto-Signal-Timing)**
+Webster's method run on 1,078 signalised intersections using the City of
+Toronto's open turning movement counts. At 91% of them the time people need to
+cross, not the traffic, sets the cycle length.
+
+**[Ontario pavement condition](https://github.com/Hasan-Shif/ontario-pavement-condition)**
+The Pavement Condition Index is a formula, not a measurement. Splitting it
+back into its cracking and roughness halves shows that northern Ontario
+asphalt is more cracked than southern asphalt, and barely rougher.
+
+**[Green Road staff quarter](https://github.com/Hasan-Shif/green-road-staff-quarter)**
+BUET capstone project. Planning, analysis and design for the reconstruction of
+a 12.23-acre government staff quarter in Dhanmondi: 16 B+G+12 blocks, ETABS
+model, full services design, bill of quantities and economic analysis.
+
+## Contact
+
+shifat@uttara.ac.bd
+[github.com/Hasan-Shif](https://github.com/Hasan-Shif)
