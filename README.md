@@ -33,18 +33,22 @@ Environment and Industrial Engineering, Uttara University
 ## Projects
 
 **1. [Toronto signal timing](https://github.com/Hasan-Shif/Toronto-Signal-Timing)**
-![Where vehicles govern the signal](https://raw.githubusercontent.com/Hasan-Shif/Toronto-Signal-Timing/main/figures/2_map.png)
-*Red dots are the 95 intersections where traffic sets the cycle length. The other 983 are set by the time people need to cross.*
+
 Webster's method run on 1,078 signalised intersections using the City of
 Toronto's open turning movement counts. At 91% of them the time people need to
 cross, not the traffic, sets the cycle length.
 
+![Where vehicles govern the signal](https://raw.githubusercontent.com/Hasan-Shif/Toronto-Signal-Timing/main/figures/2_map.png)
+*Red dots are the 95 intersections where traffic sets the cycle length. The other 983 are set by the time people need to cross.*
+
 **2. [Ontario pavement condition](https://github.com/Hasan-Shif/ontario-pavement-condition)**
-![The north-south gap](https://raw.githubusercontent.com/Hasan-Shif/ontario-pavement-condition/main/figures/3_north_south_gap.png)
-*How far northern asphalt sits below southern asphalt, split into cracking (blue) and roughness (red). Bars are 95% confidence intervals.*
+
 The Pavement Condition Index is a formula, not a measurement. Splitting it
 back into its cracking and roughness halves shows that northern Ontario
 asphalt is more cracked than southern asphalt, and barely rougher.
+
+![The north-south gap](https://raw.githubusercontent.com/Hasan-Shif/ontario-pavement-condition/main/figures/3_north_south_gap.png)
+*How far northern asphalt sits below southern asphalt, split into cracking (blue) and roughness (red). Bars are 95% confidence intervals.*
 
 ## Capstone Projects
 **[Planning, Analysis and Design for the Reconstruction of the Green Road Government Staff Quarter, Danmondi, Dhaka](https://github.com/Hasan-Shif/green-road-staff-quarter)**
